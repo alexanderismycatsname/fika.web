@@ -10,5 +10,7 @@ Though in the future the user will be able to change the looks of the browser ac
 
 2.0.0 will bring a configuration file to add a wide variety of customization.
 
+note: im too poor to buy a certificate so you just have to trust me :P
+
 <img width="100" height="100
   " alt="Image" src="https://github.com/user-attachments/assets/3e3fa0b5-eaa5-482d-833d-85cf7cb945d1" />
